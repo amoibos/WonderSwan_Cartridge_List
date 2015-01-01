@@ -24,7 +24,7 @@ SWJ-BAN010,Gunpey,Monochrom,Puzzle,Bandai,Koto ,04.03.1999,Classic,2
 SWJ-BAN011,Makaimura for WonderSwan,Monochrom,Platformer,Bandai,Capcom ,22.07.1999,Classic,1
 SWJ-BAN012,Meitantei Conan - Majutsushi No Chousenjou,Monochrom,Adventure,Bandai,Tomcat System,05.08.1999,Classic,1
 SWJ-BAN013,Rockman & Forte,Monochrom,Platformer,Bandai,Lay-Up ,28.10.1999,Classic,1
-SWJ-BAN014 / SWJ-BAN018,Terrors,Monochrom,Adventure,Bandai,Megas ,05.08.1999,Classic,1
+SWJ-BAN014,Terrors,Monochrom,Adventure,Bandai,Megas ,05.08.1999,Classic,1
 SWJ-BAN015,Mobile Suit Gundam MSVS,Monochrom,Simulation,Bandai,Sims ,26.08.1999,Classic,2
 SWJ-BAN017,Turntablist: DJ Battle,Monochrom,Rhythm,Bandai,Bandai,25.11.1999,Classic,1
 SWJ-BAN018,Terrors Limited Edition,Monochrom,Adventure,Bandai,Bandai,05.08.1999,Classic,1
@@ -47,8 +47,9 @@ SWJ-BAN028,wuz?b? Produce Street Dancer,Monochrom,Rhythm,Bandai,Fortyfive ,27.04
 SWJ-BAN029,Slither Link,Monochrom,Puzzle,Bandai,Tomcat ,20.04.2000,Classic,
 SWJ-BAN02A,Hunter x Hunter - Ishi O Tsugu Mono,Monochrom,RPG,Bandai,Access,01.07.2000,Classic,
 SWJ-BAN02B,From TV Animation - One Piece - Mezase Kaizoku Ou!,Monochrom,Adventure,Bandai,Bandai,19.07.2000,Classic,
-"SWJ-BAN02C, SWJ-BAN02F",Digital Partner [2F with WonderWave],Monochrom,Strategy,Bandai,Tom Create,25.05.2000,Classic,2
-"SWJ-BAN030, SWJ-BAN031",SD Gundam: G Generation Gather Beat,Monochrom,Strategy,Bandai,Vanguard Works,13.07.2000,Classic,2
+SWJ-BAN02C,Digital Partner,Monochrom,Strategy,Bandai,Tom Create,25.05.2000,Classic,2
+SWJ-BAN02F,Digital Partner [included WonderWave],Monochrom,Strategy,Bandai,Tom Create,25.05.2000,Classic,2
+SWJ-BAN030,SD Gundam: G Generation Gather Beat,Monochrom,Strategy,Bandai,Vanguard Works,13.07.2000,Classic,2
 SWJ-BAN031,SD Gundam G Generation: Gather Beat (WonderWave Pack),Monochrom,Strategy,Bandai,Vanguard Works,13.07.2000,Classic,2
 SWJ-BAN032,Digimon Adventure 02 - Tag Tamers,Monochrom,Cardbattle,Bandai,Sims ,03.08.2000,Classic,
 SWJ-BAN033,Robot Works [WonderBorg],Monochrom,Hardware,Bandai,,07.12.2000,Classic,
@@ -79,7 +80,7 @@ SWJ-BANC16,Star Hearts: Hoshi to Daichi no Shisha,Farbe,RPG,Bandai,Bandai,27.09.
 SWJ-BANC17,Mobile Suit Gundam - Vol. 2 - Jaburo,Farbe,Simulation,Bandai,Bandai,16.08.2000,Color,
 SWJ-BANC18,Hunter × Hunter - Michibikareshi Mono,Farbe,RPG,Bandai,Access ,23.08.2001,Color,
 SWJ-BANC19,From TV Animation - One Piece - Niji No Shima Densetsu,Farbe,RPG,Bandai,Tomcat System,13.09.2001,Color,
-"SWJ-BANC1A, SWJ-BANC24",Digimon Tamers - Battle Spirit[C1A with Link Cable],Farbe,Fighting,Bandai,Dimps ,06.10.2001,Color,
+SWJ-BANC1A,Digimon Tamers - Battle Spirit [included Link Cable],Farbe,Fighting,Bandai,Dimps ,06.10.2001,Color,
 SWJ-BANC1B,Inu Yasha - Kagome no Sengoku Nikki,Farbe,Adventure,Sammy,Bandai,02.11.2001,Color,
 SWJ-BANC1D,Digimon Tamers - Brave Tamer,Farbe,RPG,Bandai,Sims ,29.12.2001,Color,
 SWJ-BANC1E,From TV Animation One Piece - Treasure Wars,Farbe,RPG,Bandai,Graphic Research,03.01.2002,Color,
@@ -88,6 +89,7 @@ SWJ-BANC20,Kinniku Man Second Generations Dream Tag Match,Farbe,Fighting,Bandai,
 SWJ-BANC21,SD Gundam - Operation U.C,Farbe,Action,Bandai,Bandai,16.02.2002,Color,
 SWJ-BANC22,Digital Monsters Card Game Ver. WonderSwan Color,Farbe,Card,Bandai,Tom Create,16.03.2002,Color,
 SWJ-BANC23,Final Lap Special,Farbe,Racing,Bandai,Soft Machine,15.11.2001,Color,
+SWJ-BANC24,Digimon Tamers - Battle Spirit,Farbe,Fighting,Bandai,Dimps ,06.10.2001,Color,
 SWJ-BANC25,Kidou Senshi Gundam Vol. 3 A Baoa Qu,Farbe,Simulation,Bandai,Bandai,25.05.2002,Color,
 SWJ-BANC26,Inu Yasha: Fuun Emaki,Farbe,Adventure,Bandai,Bandai,27.07.2002,Crystal,2
 SWJ-BANC27,Yakusoku no Chi Riviera,Farbe,RPG,Bandai,Sting,12.07.2002,Crystal,1
@@ -146,7 +148,8 @@ SWJ-JLC002,Moero!! Pro Yakyuu Rookies,Monochrom,Sport,Jaleco,TOSE ,30.03.2000,Cl
 SWJ-KBS002,Cho Denki Card Battle - Yofu Makai Kikuchi Shugo,Monochrom,Card,Kobunsha,Kobunsha,16.12.1999,Classic,2
 SWJ-KBSC01,Flash Koibito-Kun,beide,Arcade,Kobunsha,Koto ,28.12.2000,Color,1
 SWJ-KBSC02,Mikeneko Holmes - Ghost Head,Farbe,Adventure,Kobunsha,MintJulep ,26.04.2001,Color,1
-"SWJ-KDK001, SWJ-KDK002",Ring Infinity [02 with Earphones],Monochrom,Adventure,Kadokawa Shoten,Megas ,10.04.2000,Classic,1
+SWJ-KDK001,Ring Infinity,Monochrom,Adventure,Kadokawa Shoten,Megas ,10.04.2000,Classic,1
+SWJ-KDK002,Ring Infinity [included Earphones],Monochrom,Adventure,Kadokawa Shoten,Megas ,10.04.2000,Classic,1
 SWJ-KDKC01,Memories Off Festa,Farbe,Adventure,Kid,Kid,08.03.2001,Color,
 SWJ-KDX001,KISS Yori... - Seaside Serenade,Monochrom,Adventure,Kid,Kid,02.12.1999,Classic,1
 SWJ-KEX001,Nobunaga no Yabo for WonderSwan,Monochrom,Strategy,Kobunsha,Koei/Inis,11.03.1999,Classic,2
@@ -211,5 +214,5 @@ SWJ-YKE001,Morita Shougi for WonderSwan,Monochrom,Board,Yuki Enterprise,Diverse,
 WWGP2001A3,Judgement Silversword - Rebirth Edition,Farbe,Shooter,M-Kai,Qute ,02.02.2004,Crystal,1
 WWGP2002B,Dicing Knight Period,Farbe,RPG,Qute,Dispositif ,09.06.2004,Crystal,1
 - [Exportversion],Digimon Digital Monsters - Anode Tamer & Cathode Tamer - Veedramon Version,Farbe,RPG,Bandai,Sims,18.09.2001,Color,
-- (playable demo),STAR HEARTS ~HOSHI TO DAICHI NO SHISHA~ TAIKENBAN[Trial Version],Farbe,RPG,Bandai,Bandai,27.09.2001,Color,
+- (playable demo),STAR HEARTS ~HOSHI TO DAICHI NO SHISHA~ TAIKENBAN [Trial Version],Farbe,RPG,Bandai,Bandai,27.09.2001,Color,
 ,Battle Spirit - Digimon Frontier(Korean Version),,,,,,,
